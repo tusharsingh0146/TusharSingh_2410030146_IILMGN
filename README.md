@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 - Name: Tushar Singh  
-- Enrollment: 2410030146  
-- Course: B.Tech / BCA (update as needed)
+- Enrollment: XXXXXXX146  
+- Course: B.Tech 
 
 ---
 
