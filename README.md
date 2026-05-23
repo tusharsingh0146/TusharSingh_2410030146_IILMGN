@@ -3,7 +3,7 @@
 ## 👤 Student Details
 - Name: Tushar Singh  
 - Enrollment: XXXXXXX146  
-- Course: B.Tech 
+- Course: B.Tech(Core)
 
 ---
 
@@ -35,26 +35,7 @@ This repository contains all academic work organized in a structured and profess
 - Normalization
 - Lab Work
 
-### 📝 04 - Extras
-- Important Notes
-- Viva Questions
-- Practice Code
-
----
-
-## 🎯 Key Features
-- ✔ Well-structured folders
-- ✔ Subject-wise segregation
-- ✔ Clean and readable code
-- ✔ Easy navigation for evaluators
-- ✔ Regular updates with lab work
-
 ---
 
 ## 🚀 Purpose
 This repository is maintained for academic submission, practical evaluation, and revision purposes.
-
----
-
-## ⭐ Note
-All programs are tested and organized according to college curriculum requirements.
